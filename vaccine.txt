@@ -1,0 +1,8 @@
+Pfizer          PF               USA                    2                       50.00                   51.00
+Sinovac         SV               China                  2                       18.80                   -22.00
+AstraZeneca     AZ               UK                     2                       10.00                   47.00
+Sputnik_V       SP               Russia                 2                       10.00                   38.00
+CanSinoBio      CS               China                  1                       10.90                   40.00
+Test            T1               TSA                    2                       35.00                   25.00
+Test2           T2               TTA                    2                       17.00                   36.50
+NewVac          NV               England                2                       30.00                   4.00
